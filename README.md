@@ -1,4 +1,4 @@
-# ML_QSARX — Systematic Multi-Target QSAR Benchmarking
+# ML_QSARX
 
 Machine learning algorithms, molecular descriptors, and validation strategies benchmarked across four therapeutically diverse ChEMBL targets.
 
