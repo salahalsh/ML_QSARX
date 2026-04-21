@@ -1,0 +1,5 @@
+target,n_compounds,pIC50_min,pIC50_max,pIC50_mean,pIC50_std,pIC50_median,high_potency_pct,medium_potency_pct,low_potency_pct,family,chembl_id
+EGFR,10036,3.05,11.52,6.9,1.35,7.0,50.1,41.6,8.2,Kinase,CHEMBL203
+DRD2,471,4.6,9.52,6.67,1.1,6.52,37.6,58.6,3.8,GPCR,CHEMBL217
+BACE1,8080,3.0,12.0,6.68,1.27,6.78,43.9,45.9,10.2,Protease,CHEMBL4822
+hERG,8077,3.0,9.85,5.43,0.91,5.27,6.2,61.4,32.4,Ion Channel,CHEMBL240

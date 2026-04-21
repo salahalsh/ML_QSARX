@@ -1,0 +1,14 @@
+Parameter,Value
+Target,EGFR (ChEMBL ID: CHEMBL203)
+Source,ChEMBL database
+Activity type,IC50 (converted to pIC50)
+Total compounds,10036
+pIC50 range,3.05 - 11.52
+pIC50 mean,6.90
+pIC50 std,1.35
+pIC50 median,7.00
+Random split train,8028
+Random split test,2008
+Scaffold split train,7780
+Scaffold split test,2256
+Random seed,42

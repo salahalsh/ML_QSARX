@@ -1,0 +1,6 @@
+Configuration,Features_Retained,R2_test,Delta_vs_No_Selection
+No Selection,217,0.6729,0.0000
+Variance (>0.01),183,0.6680,-0.0049
+Variance + Corr (<0.95),148,0.6710,-0.0019
+Variance + Corr (<0.85),131,0.6666,-0.0063
+Variance + Corr (<0.75),112,0.6611,-0.0118

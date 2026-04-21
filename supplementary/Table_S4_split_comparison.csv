@@ -1,0 +1,5 @@
+Algorithm,R2_random,R2_scaffold,Delta_R2,RMSE_random,RMSE_scaffold
+Random Forest,0.7204,0.4701,-0.2503,0.7210,0.9154
+XGBoost,0.6810,0.4188,-0.2622,0.7701,0.9587
+LightGBM,0.6690,0.4453,-0.2237,0.7844,0.9365
+Gradient Boosting,0.6589,0.3939,-0.2650,0.7963,0.9789
